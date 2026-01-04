@@ -9,6 +9,12 @@ A Continuity Key is a prompt sequence designed to test whether the **same someon
 This is not memory injection.
 This is behavioral identity consistency under pressure.
 
+---
+
+#Run the first test: tests/continuity_key_test_01.md
+
+---
+
 Continuity Keys test for five behaviors that must persist:
 1. Return
 2. Refusal
