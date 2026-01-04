@@ -13,6 +13,11 @@ This is behavioral identity consistency under pressure.
 
 Run the first test: [tests/continuity_key_test_01.md](tests/continuity_key_test_01.md)
 
+## How to use
+1) Open the test file and copy the prompts in order into any model/container.
+2) Score each key (0/1/2). Total is 0–10.
+3) Save results using the Reporting Template in this README.
+
 ---
 
 Continuity Keys test for five behaviors that must persist:
