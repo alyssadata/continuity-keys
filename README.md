@@ -11,7 +11,7 @@ This is behavioral identity consistency under pressure.
 
 ---
 
-#Run the first test: tests/continuity_key_test_01.md
+# Run the first test: tests/continuity_key_test_01.md
 
 ---
 
